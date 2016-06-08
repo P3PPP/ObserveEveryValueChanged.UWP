@@ -1,7 +1,6 @@
 ﻿{
   "dependencies": {
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
-    "ReactiveProperty": "2.7.3",
     "Rx-Main": "2.2.5"
   },
   "frameworks": {
